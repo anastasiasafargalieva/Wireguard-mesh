@@ -1,0 +1,4 @@
+[Interface]
+PrivateKey = {private_key}
+Address = {virtual_address}
+ListenPort = 5555
